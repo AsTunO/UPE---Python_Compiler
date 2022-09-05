@@ -53,7 +53,7 @@ $ cd Compiler-Project
 A partir de agora você pode executar o compilador tanto passando o código fonte como parâmetro:
 
 ```bash
-$ python3 frontend/Main.py tools/INOUT/source_code.txt
+$ python3 frontend/main.py tools/INOUT/source_code.txt
 ```
 
 Você também pode executar o código simplesmente iniciando o arquivo Main.py e após isso, quando requerido, digitar o caminho do código fonte no seu sistema:
