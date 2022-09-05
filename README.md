@@ -41,7 +41,7 @@ Antes de começar, você vai precisar ter instalado em sua máquina o [Python 3]
 Clone este repositório:
 
 ```bash
-$ git clone https://github.com/akiratorres/compiler-project
+$ git clone https://github.com/AsTunO/UPE---Python_Compiler
 ```
 
 Acesse a pasta do projeto no terminal:
@@ -53,12 +53,12 @@ $ cd Compiler-Project
 A partir de agora você pode executar o compilador tanto passando o código fonte como parâmetro:
 
 ```bash
-$ python3 frontend/Main.py tools/INOUT/test.txt
+$ python3 frontend/Main.py tools/INOUT/source_code.txt
 ```
 
 Você também pode executar o código simplesmente iniciando o arquivo Main.py e após isso, quando requerido, digitar o caminho do código fonte no seu sistema:
 ```bash
-$ python3 frontend/Main.py
+$ python3 frontend/main.py
 ```
 
 
