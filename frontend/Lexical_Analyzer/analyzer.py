@@ -43,3 +43,4 @@ def analyze(absolute_path: str):
         actions.action(state) # Performs the action corresponding to the found acceptance state
         
         route_dfa = [0] # Reset the way
+        
