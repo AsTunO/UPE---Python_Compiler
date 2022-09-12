@@ -49,7 +49,6 @@ Acesse a pasta do projeto no terminal:
 ```bash
 $ cd Compiler-Project
 ```
-
 A partir de agora você pode executar o compilador tanto passando o código fonte como parâmetro:
 
 ```bash
