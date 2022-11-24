@@ -60,7 +60,6 @@ Você também pode executar o código simplesmente iniciando o arquivo Main.py e
 $ python3 frontend/main.py
 ```
 
-
 ## Autores
 
 <table>
