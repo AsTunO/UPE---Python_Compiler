@@ -3,7 +3,6 @@ import sys
 from Lexical_Analyzer.analyzer import analyze
 from Syntactic_Analyzer.parser import parser
 
-
 def main():
     print("--------------------------------- Compilador(Frontend) ---------------------------------")
     print('ANALISADOR LÉXICO: ')
